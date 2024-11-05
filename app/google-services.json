@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45443169513",
+    "project_id": "project-firebase-ml",
+    "storage_bucket": "project-firebase-ml.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45443169513:android:a816933cb774889ff44478",
+        "android_client_info": {
+          "package_name": "com.example.mypredictionfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbomPrO5eP2RUnVX4vCBMEL7NZm4mjuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
